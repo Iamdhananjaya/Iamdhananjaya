@@ -1,9 +1,5 @@
 ### Hola, i'm dhananjaya 👋
 
-<!--
-**Iamdhananjaya/Iamdhananjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on computer vision
 - 🌱 I’m currently learning machine learning
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://wa.me/qr/3WYRZGUZQML3D1
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: everything is amazing
--->
+- Have a nice day!
